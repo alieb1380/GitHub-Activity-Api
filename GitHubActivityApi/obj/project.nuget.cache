@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Q9iptbMcJM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ali\\Desktop\\Programming\\python\\GitHub-Activity-Api\\GitHubActivityApi\\GitHubActivityApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ali\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\ali\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
